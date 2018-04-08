@@ -24,6 +24,7 @@ Copyright 2012  Cathy Finn-Derecki  (email : cad3r@virginia.edu)
 //include widget
 //require_once(dirname( __FILE__ ). '/uvasomdeptrfd_search_widget.php');
 require_once( trailingslashit( get_template_directory() ) . 'lib/classes/class-genesis-admin.php');
+require_once( trailingslashit( get_template_directory() ) . 'lib/classes/class-genesis-admin-boxes.php');
 require_once(dirname( __FILE__ ). '/uvasomdeptrfd_settings_page.php');
 require_once(dirname( __FILE__ ). '/uvasomdeptrfd_faculty_printlist.php');
 //require_once(dirname( __FILE__ ). '/uvasomdept_tinymce.php');
